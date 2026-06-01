@@ -21,10 +21,11 @@
     "express-rate-limit": "8.1.0",
     "jsonwebtoken": "9.0.2",
     "mercadopago": "2.8.0",
-    "mongoose": "^8.17.1",
-    "zod": "4.0.15"
+    "mongoose": "8.17.1",
+    "zod": "4.0.15",
+    "cross-env": "10.0.0"
+
   },
   "devDependencies": {
-    "cross-env": "10.0.0"
   }
 }
